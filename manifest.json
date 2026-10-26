@@ -1,0 +1,10 @@
+{
+  "name": "Caça Casa",
+  "short_name": "Caça Casa",
+  "description": "Busca pessoal de casas de temporada com piscina",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f7f5",
+  "theme_color": "#123c35",
+  "icons": []
+}
